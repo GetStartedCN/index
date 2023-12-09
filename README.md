@@ -8,4 +8,4 @@ Get-Started 索引
 
 ## W
 
-- [WebSocket])(https://www.bilibili.com/video/BV1oo4y1w7Rm)
+- [WebSocket](https://www.bilibili.com/video/BV1oo4y1w7Rm)
