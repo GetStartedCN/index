@@ -9,3 +9,7 @@ Get-Started 索引
 ## W
 
 - [WebSocket](https://www.bilibili.com/video/BV1oo4y1w7Rm)
+
+
+## Y
+- [YAML](https://dev.to/paulasantamaria/introduction-to-yaml-125f)
