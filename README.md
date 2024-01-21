@@ -7,7 +7,7 @@ Get-Started 索引
 
 
 ## S
-- [SSH隧道转发](https://www.lixueduan.com/posts/linux/07-ssh-tunnel/)
+- [SSH隧道](https://www.lixueduan.com/posts/linux/07-ssh-tunnel/)
 
 
 ## W
