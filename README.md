@@ -11,7 +11,7 @@ Get-Started 索引
 - [Godot](https://www.bilibili.com/video/BV14Y411h7Po) 
 
 # P
-- [Playwright 入门](bilibili.com/video/BV1UD4y1s7Wi/)
+- [Playwright 入门](https://www.bilibili.com/video/BV1UD4y1s7Wi/)
 
 
 ## S
