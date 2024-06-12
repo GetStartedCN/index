@@ -1,5 +1,7 @@
 # index
 Get-Started 索引
+## 1
+- [12-Factor App](https://12factor.net/zh_cn) 软件开发最优解
 
 ## A
 
