@@ -10,6 +10,12 @@ Get-Started 索引
 
 - [Godot](https://www.bilibili.com/video/BV14Y411h7Po) 
 
+## H
+- [Haskell 入门](https://learnyouahaskell.mno2.org/zh-cn)
+
+## N
+- [NixOS 入门](https://nixos-cn.org/tutorials/)
+
 # P
 - [Playwright 入门](https://www.bilibili.com/video/BV1UD4y1s7Wi/)
 
